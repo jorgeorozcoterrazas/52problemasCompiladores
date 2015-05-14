@@ -2,7 +2,7 @@
 package problema7;
 
 import java.util.Scanner;
-
+//7.-Introducir tantas frases como queramos y contarlas.
 /**
  *
  * @author Jorge

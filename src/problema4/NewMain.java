@@ -1,10 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package problema4;
-
+//4.-Hacer un programa que imprima la suma de los 100 primeros numeros.
 /**
  *
  * @author Jorge
