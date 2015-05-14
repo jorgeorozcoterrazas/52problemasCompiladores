@@ -21,7 +21,7 @@ public class NewMain {
         for(x=1;x<=num_fin;x++){
             z=z+1;
         }
-        System.out.println("hay "+z+" numeros desde el uno hasta el "+z);
+        System.out.println("hay "+z+" numeros desde el uno hasta el "+num_fin);
     }
     
 }
